@@ -1,0 +1,261 @@
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\ApplicationInsights.config
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\csc.exe
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\vbc.exe
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\LeaveTracker.dll.config
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\LeaveTracker.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\LeaveTracker.pdb
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\EntityFramework.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\LeaveTracker.EF.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Data.Edm.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Data.OData.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Owin.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Spatial.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Cors.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.OData.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.Owin.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Razor.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\WebGrease.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\LeaveTracker.EF.pdb
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Data.Edm.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Data.OData.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Spatial.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.OData.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Razor.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\EntityFramework.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.Owin.xml
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\de\System.Spatial.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\es\System.Spatial.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\fr\System.Spatial.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\it\System.Spatial.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\ja\System.Spatial.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\ko\System.Spatial.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\ru\System.Spatial.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\obj\Release\LeaveTracker.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\obj\Release\LeaveTracker.dll
+C:\Users\thomami1\Documents\Visual Studio 2015\Projects\LeaveTracker\LeaveTracker.WebAPI\obj\Release\LeaveTracker.pdb
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\ApplicationInsights.config
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\csc.exe
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\vbc.exe
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\LeaveTracker.dll.config
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\LeaveTracker.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\LeaveTracker.pdb
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Antlr3.Runtime.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\EntityFramework.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\LeaveTracker.EF.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Data.Edm.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Data.OData.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Newtonsoft.Json.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Owin.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Spatial.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Cors.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Helpers.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.OData.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.Owin.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Mvc.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Optimization.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Razor.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.WebPages.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\WebGrease.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\LeaveTracker.EF.pdb
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\LeaveTracker.EF.dll.config
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Data.Edm.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Data.OData.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Spatial.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.OData.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Newtonsoft.Json.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Helpers.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Mvc.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Optimization.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Razor.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.WebPages.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\EntityFramework.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\System.Web.Http.Owin.xml
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\de\Microsoft.Data.OData.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\es\Microsoft.Data.OData.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\it\Microsoft.Data.OData.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\de\System.Spatial.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\es\System.Spatial.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\fr\System.Spatial.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\it\System.Spatial.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\ja\System.Spatial.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\ko\System.Spatial.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\ru\System.Spatial.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\obj\Release\LeaveTracker.WebAPI.csprojResolveAssemblyReference.cache
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\obj\Release\LeaveTracker.dll
+C:\Mini\LeaveTracker\LeaveTracker.WebAPI\obj\Release\LeaveTracker.pdb
