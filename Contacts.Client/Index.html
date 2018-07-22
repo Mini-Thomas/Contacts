@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Contacts</title>
+    <!-- Style sheets -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <link href="Content/datepicker.css" rel="stylesheet" />
+    <link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+    <link href="Content/Site.css" rel="stylesheet" />
+</head>
+<body ng-app="contact">
+    <nav class="navbar navbar-default">
+        <div class="navbar-header">
+            <h1>Contacts</h1>
+        </div>
+    </nav>
+    <section class="container-fluid main">
+        <section class="row">
+            <nav class="navbar bd-sidebar"">
+                <div class="navbar-header">
+                    <div ng-include="'app/common/menu.html'"></div>
+                </div>
+            </nav>
+            <section class="container-fluid main-content">
+                <main class="bd-content">
+                    <ng-view></ng-view>
+                </main>
+            </section>
+        </section>
+    </section>
+    <!-- Library Scripts -->
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/odataresources.js"></script>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="bower_components/angular-route.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.10/angular-sanitize.js"></script>
+    <!--Application Script-->
+    <script src="app/app.js"></script>
+    <script src="app/common/common.services.js"></script>
+    <script src="app/common/contactResource.js"></script>
+    <!--Services-->
+    <script src="app/contactmembers/contactMemberListCtrl.js"></script>
+    <script src="app/contactmembers/add_editContactCtrl.js"></script>
+</body>
+</html>

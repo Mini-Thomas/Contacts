@@ -1,0 +1,58 @@
+﻿<div class="panel panel-primary" ng-controller="add_editContactCtrl as add_editContact">
+    <div class="panel-heading panel-head-contact">
+        <div class="header">
+            <h4>
+                <label class="col-sm-2 col-form-label" id="lblContactHeading" ng-bind-html="add_editContact.heading"></label>
+            </h4>
+        </div>
+    </div>
+    <div class="panel-body panel-add-contact">
+        <form name="contactForm" novalidate>
+            <label class="col-sm-2 col-form-label" for="firstName">First Name:</label>
+            <input id="firstName" type="text" data-ng-model="add_editContact.contact[0].firstName" name="firstName" required />
+            <div class="error-body" ng-show="contactForm.firstName.$invalid">
+                <div ng-message="required">This field is required</div>
+            </div>
+            <br />
+            <label class="col-sm-2 col-form-label" for="lastName">Last Name:</label>
+            <input id="lastName" type="text" data-ng-model="add_editContact.contact[0].lastName" name="lastName" required />
+            <div class="error-body" ng-show="contactForm.lastName.$invalid">
+                <div ng-message="required">This field is required</div>
+            </div>
+            <br />
+            <label class="col-sm-2 col-form-label" for="email">Email:</label>
+            <input id="email"
+                   type="text" 
+                   name="email" 
+                   data-ng-model="add_editContact.contact[0].email" 
+                   ng-pattern="/^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/"
+                   required />
+            <div class="error-body" ng-show="contactForm.email.$invalid">
+                <div ng-message="required">Please enter valid email address</div>
+            </div>
+            <br />
+            <label class="col-sm-2 col-form-label" for="phoneNumber">Phone Number:</label>
+            <input id="phoneNumber"
+                   type="text"
+                   name="phoneNumber"
+                   data-ng-model="add_editContact.contact[0].phoneNumber"
+                   ng-minlength="10"
+                   ng-maxlength="10"
+                   placeholder="Phone"
+                   ng-pattern="/^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$/" 
+                   required />
+            <div class="error-body" ng-show="contactForm.phoneNumber.$invalid">
+                <div ng-message="required">Please enter valid 10 digit phone number</div>
+            </div>
+            <br />
+            <label for="status" class="col-sm-2 col-form-label">Status:</label>
+            <select id="status" name="status" data-ng-model="add_editContact.contact[0].status">
+                <option value="Active">Active</option>
+                <option value="InActive">InActive</option>
+            </select>
+        </form>
+    </div>
+    <section class="col-sm-2 col-form-label input-save">
+        <input id="btnSave" type="button" value="Save" ng-click="add_editContact.submitForm(contactForm.$valid)" />
+    </section>
+</div>

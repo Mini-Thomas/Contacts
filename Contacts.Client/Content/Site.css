@@ -1,0 +1,186 @@
+﻿body {
+    background: #FFF5EE;
+    color: #333;
+    font-size: 0.85em;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* panel css*/
+ panel-primary { padding:20px}
+
+ 
+/* table css*/
+.table {
+    border: 1px solid darken($baseColor, 5%);
+    border-radius: $borderRadius;
+    box-shadow: 3px 3px 0 rgba(0,0,0,0.1);
+    margin-top: 9.3%
+}
+
+.header {
+    background-color: #4682B4;
+    color: #FFFBFB;
+    font-size: 1.5em;
+    padding: 1rem 30px;
+    text-transform: uppercase;
+}
+
+.table thead {
+    background: #212121;
+    color: #E0E0E0;
+}
+
+/*table tr:nth-child(2n+1) {
+    background-color: #edf7f8;
+}*/
+
+
+
+.navbar.navbar-default {
+    padding: 15px 15px;
+    display: block;
+}
+.navbar-header h1 {
+    text-align: center;
+    color: #2F4F4F;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 1.8rem;
+    margin-bottom:0;
+}
+.navbar.bd-sidebar {
+    width: 15%;
+    background: #FFA07A;
+    color: #FFFBFB;
+    padding: 0;
+    position: fixed;
+    z-index: 1;
+}
+
+
+    .navbar.bd-sidebar .navbar-header {
+        width: 100%;
+        text-align: center;
+    }
+ .panel-heading h3 {
+    padding: 15px;
+}
+
+.panel-body .panel-heading, .panel-heading.panel-head-contact, .panel-heading.panel-head-leave {
+    position: fixed;
+    width: 100%;
+}
+}
+.panel-body .large {
+    border-bottom: 1px solid #fff;
+    background-color:#3E989B;
+}
+.large {
+    background-color: #4682B4;
+}
+.main .panel-body{overflow-x:auto;}
+/*
+    
+  
+.large.two {
+    background-color: #c84051;
+}
+
+.large.three {
+    background-color: #4f3462;
+}
+
+.large.four {
+    background-color: #794d9a;
+}*/
+.panel-body a.large {
+    padding: 20px 15px;
+    display: block;
+    color: #FFFBFB;
+    border-bottom: 1px solid #fff;
+}
+
+.container-fluid.main{
+
+    padding-left:0;
+    padding-right:0;
+    margin:0;
+    margin-top: 4.5%;
+}
+.main-content {
+    width: 85%;
+    padding: 0;
+    margin: 0 15%;
+}
+
+.filter-and-name label, label {
+    font-weight: bold;
+}
+.filter-and-name select {
+    margin-right: 5%
+}
+.filter-and-name {
+    padding: 10px 30px;
+}
+.main .row{ margin:0;}
+.filter-and-name select.last {
+    margin-right: 1%
+}
+input[type="button"] {
+    background: #FFA07A;
+    border: none;
+    color: #fff;
+    border-radius: 6px;
+    padding: 6px 15px;
+    font-weight: bold;
+}
+tbody td{border-bottom:1px solid #fff}
+.table thead th:first-child, .table td:first-child {
+    padding: .75rem 30px;
+}
+
+ .evenColor {
+    background-color: #d8d8d8
+}
+
+.header h1, .panel-heading h3, .main-content h4 {
+    font-size: 18px;
+    margin-bottom:0;
+}
+
+.input-save {
+    margin-left: 15.5%;
+    margin-top: 10px;
+}
+.panel-body.panel-add-contact, .panel-body.add-leave {
+    padding: 15px
+}
+.panel-body.panel-add-contact, .panel-body.add-leave {
+    padding-top: 7%;
+}
+
+ .navbar.navbar-default{   position: fixed;
+    z-index: 100;
+    padding: 10px;
+    width: 100%;
+    top: 1%;
+    }
+
+.error-body {
+    display: inline-block;
+    vertical-align: top;
+    color: red;
+    margin-top: 5px;
+}

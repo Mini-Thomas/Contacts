@@ -1,0 +1,48 @@
+﻿<div class="panel panel-primary" ng-controller="contactMemberListCtrl as contactDetail">
+    <div class="panel-body">
+        <div class="panel-heading">
+            <div class="header">
+                <h4>
+                    Contact Details
+                </h4>
+            </div>
+            <div class="filter-and-name">
+                <label for="contact">Filter by Name:</label>
+                <select id="contact" ng-model="contactModel" class="last">
+                    <option value="" label="Select First Name"></option>
+                    <option ng-repeat="contact in contactDetail.contactDefaultList" ng-value="contact.firstName" ng-bind-html="contact.firstName"></option>
+                </select>
+                <input id="btnFilter" type="button" value="Filter" ng-click="contactDetail.filterContacts()" />
+            </div>
+        </div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Email</th>
+                    <th>Phone Number</th>
+                    <th>Status</th>
+                    <th colspan="2"></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="contact in contactDetail.contactList">
+                    <td ng-bind-html="contact.firstName"></td>
+                    <td ng-bind-html="contact.lastName"></td>
+                    <td ng-bind-html="contact.email"></td>
+                    <td ng-bind-html="contact.phoneNumber"></td>
+                    <td ng-bind-html="contact.status"></td>
+                    <td>
+                        <a ng-href="#!/editContact/{{contact.contactID}}">
+                            <input id="btnEdit" type="button" value="Edit" />
+                        </a>
+                    </td>
+                    <td>
+                        <input id="btnDelete" type="button" value="Delete" ng-click="contactDetail.deleteContact(contact)" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
