@@ -39,10 +39,28 @@
                         </a>
                     </td>
                     <td>
-                        <input id="btnDelete" type="button" value="Delete" ng-click="contactDetail.deleteContact(contact)" />
+                        <input id="btnDelete" type="button" ng-click="confirmationDialog(contact)" value="Delete"/>
                     </td>
                 </tr>
             </tbody>
         </table>
+        <div id="confirmation-dialog" ng-hide="IsHidden">
+            <div role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="header">
+                            <h4 class="modal-title">{{confirmationDialogConfig.title}}</h4>
+                        </div>
+                        <div class="modal-body">
+                            <div class="span5">{{confirmationDialogConfig.message}}</div>
+                        </div>
+                        <div class="modal-footer">
+                            <input type="button" data-dismiss="modal" value="Cancel" ng-click="showDialog(true)"/>
+                            <input type="button" ng-repeat="button in confirmationDialogConfig.buttons" ng-click="contactDetail.deleteContact()" value={{button.label}} />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
