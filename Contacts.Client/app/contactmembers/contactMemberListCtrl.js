@@ -7,6 +7,8 @@
 
         /*Declare variables*/
         var contactDetail = this;
+        var contact = null;
+        $scope.IsHidden = true;
         $scope.contactModel = null;
         var serverPath = 'http://localhost:54521/api/';
         
@@ -35,15 +37,34 @@
             .query();
         contactDetail.contactDefaultList = contacts;
         /**/
-        
-        contactDetail.deleteContact = function (contact)
+
+        /*Delete Contact*/
+        contactDetail.deleteContact = function ()
         {
             var deleteContact = $odataresource(serverPath + 'contacts/:id', { id: contact.contactID });
-            var contact = new deleteContact();
-            contact.$delete();
+            var contactToDelete = new deleteContact();
+            contactToDelete.$delete();
             $route.reload();
         }
 
+        /*Confirmation pop out for Delete*/
+        $scope.confirmationDialog = function (contactDelete) {
+            contact = contactDelete;
+            $scope.confirmationDialogConfig = {
+                title: "Delete Contact",
+                message: "Are you sure you want to delete?",
+                buttons: [{
+                    label: "Delete",
+                    action: "delete"
+                }]
+            };
+            $scope.showDialog(false);
+        };
+
+        $scope.showDialog = function (flag) {
+            $scope.IsHidden = flag;
+        };
+        
         /*Intialize functions to call*/
         contactDetail.filterContacts();
     }
