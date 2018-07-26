@@ -25,7 +25,7 @@ textarea {
 .table {
     border: 1px solid darken($baseColor, 5%);
     border-radius: $borderRadius;
-    box-shadow: 3px 3px 0 rgba(0,0,0,0.1);
+    /*box-shadow: 3px 3px 0 rgba(0,0,0,0.1);*/
     margin-top: 9.3%
 }
 
@@ -132,7 +132,7 @@ textarea {
     margin-right: 5%
 }
 .filter-and-name {
-    padding: 10px 30px;
+    padding: 3px 30px;
 }
 .main .row{ margin:0;}
 .filter-and-name select.last {
@@ -184,3 +184,9 @@ tbody td{border-bottom:1px solid #fff}
     color: red;
     margin-top: 5px;
 }
+
+.open-dialog {
+    border-radius: 3px;
+    margin: 10px;
+}
+
